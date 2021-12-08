@@ -55,7 +55,7 @@ We Would like to thank:
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@jagdishj],[@srthkverma]  - feel free to contact me!
 
 
 <!-- Optional -->
